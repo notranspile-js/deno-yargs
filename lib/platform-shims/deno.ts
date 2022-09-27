@@ -12,7 +12,7 @@ import {
 } from 'https://deno.land/std@0.110.0/path/mod.ts';
 
 import cliui from 'https://deno.land/x/cliui@v7.0.4-deno/deno.ts';
-import escalade from 'https://deno.land/x/escalade@v3.0.3/sync.ts';
+import escalade from 'https://raw.githubusercontent.com/notranspile-js/deno-escalade/v3.0.3-deno-0.110.0-1/deno/sync.ts';
 import Parser from 'https://raw.githubusercontent.com/notranspile-js/deno-yargs-parser/v20.2.4-deno-0.110.0-1/deno.ts';
 import y18n from 'https://raw.githubusercontent.com/notranspile-js/deno-y18n/v5.0.0-deno-0.110.0-1/deno.ts';
 import {YError} from '../../build/lib/yerror.js';
